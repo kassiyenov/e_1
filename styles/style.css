@@ -15,6 +15,7 @@ body {
 	clear: both;
 }
 .header {
+	padding: 0 20px;
 	background: #e8ebf1;
 }
 .menu-item {
@@ -56,6 +57,7 @@ body {
 	border-bottom: 40px solid #81e4ed;
 }
 .bg-advantages {
+	padding: 0 20px;
 	background: #e8ebf1;
 }
 .advantages {
@@ -138,6 +140,7 @@ body {
     margin-bottom: 20px;
 }
 .achieve {
+	padding: 0 20px;
 	position: relative;
 }
 .icon-achieve-first {
@@ -146,7 +149,7 @@ body {
 	background: url("../design/cursor.png");
 	position: absolute;
 	top: 3px;
-	left: 0;
+	left: 20px;
 	display: inline-block;
 	z-index: 1;
 }
@@ -179,7 +182,6 @@ body {
 	padding: 10px 20px;
 	border-radius: 7px;
 	font-weight: bold;
-	margin-left: 38.8%;
 	padding: 18px 19px 18px 67px;
 	text-transform: uppercase;
 	box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.2), inset 0 -2px 3px 0 rgba(255, 255, 255, 0.2);
@@ -188,6 +190,7 @@ body {
 	margin-bottom: 8px;
 }
 .btn-parent {
+	text-align: center;
 	position: relative;
 }
 .download-icon {
@@ -211,6 +214,7 @@ body {
 	line-height: 24px;
 }
 .testimonials {
+	padding: 0 20px;
 	position: relative;
 }
 .message_icon {
@@ -219,7 +223,7 @@ body {
 	background: url("../design/message.png") center no-repeat;
 	position: absolute;
 	top: 21px;
-	left: 0;
+	left: 20px;
 	display: inline-block;
 }
 .author {
@@ -228,6 +232,7 @@ body {
 	padding-top: 13px;
 }
 .footer {
+	padding: 0 20px;
 	background: #e8ebf1;
 	line-height: 18px;
 	margin: 0;
